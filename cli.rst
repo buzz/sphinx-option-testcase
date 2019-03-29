@@ -3,7 +3,10 @@ Usage
 
 :option:`-v`
 
-.. click:: mypackage.cli:cli
-	:prog: mypackage
+.. program:: cli
+
+.. option:: -v
+
+	verbose
 
 :option:`-v`
