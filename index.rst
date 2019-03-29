@@ -10,7 +10,9 @@ Welcome to mypackage's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   othera
    cli
+   otherb
 
 Indices and tables
 ==================
